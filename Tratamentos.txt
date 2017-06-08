@@ -1,0 +1,3 @@
+Cadastro do Usuário
+-não deixar cadastrar com o mesmo nome de usuário
+-não deixar ativo o cadastro
